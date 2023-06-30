@@ -12,7 +12,7 @@ for more info.
 Hi!!... I am **Kazi Abu Rousan**, a student of [Indian Association for The Cultivation of Science](https://en.wikipedia.org/wiki/Indian_Association_for_the_Cultivation_of_Science), doing my master's degree in Physics. I also teaches Maths and Physics for olympiad in [Cheenta Ganit Kendra](https://www.cheenta.com/).
 ~~~
 <img src="/assets/me.jpeg" alt="It's a me! Rousan" width="500">
-<div class="caption">It's a me! Rousan. If someone has some crush do let me know</div>
+<div class="caption">It's a me!! Rousan.</div>
 ~~~
 
 Ohh and here is my catto! Mr. **Gino**!

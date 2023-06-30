@@ -46,7 +46,6 @@ end
 println("The output, probability is = ",prob(10_000_000))
 ```
 The output is:
-You can now show what this would look like:
 \output{./birthday_tre.jl}
 ~~~
 <img src="/assets/cat-gray.gif" alt="Code bro code" width="400">
@@ -54,7 +53,8 @@ You can now show what this would look like:
 ~~~
 This contains some interesting things related to Mathematics :\\
 (*This part will be updated as new blogs are added*)
-
+* [The Period of Reciprocals of Primes (work of William Shanks)](/Pages/Maths/Rec_of_prime/)
+  Yeah!!... First blog
 <!-- ## Live evaluation of code blocks
 
 If you would like to show code as well as what the code outputs, you only need to specify where the script corresponding to the code block will be saved.
