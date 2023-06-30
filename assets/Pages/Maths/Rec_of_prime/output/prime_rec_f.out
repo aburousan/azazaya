@@ -1,0 +1,2 @@
+ArgumentError: Package Primes not found in current path.
+- Run `import Pkg; Pkg.add("Primes")` to install the Primes package.

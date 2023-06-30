@@ -23,6 +23,25 @@
 
 <item>
   <title>
+    <![CDATA[  Reciprocals of Primes  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/Pages/Maths/Rec_of_prime/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/Pages/Maths/Rec_of_prime/index.html </guid>
+  <description>
+    <![CDATA[  A brief discussion on the fact that taking the reciprocals of primes will generate numbers which repeat after certain digits. Here we will understand why this happens and will write a code to find out the period.  ]]>
+  </description>  
+    
+  <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Kazi Abu Rousan</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  More goodies  ]]>
   </title>
   <link> https://tlienart.github.io/FranklinTemplates.jl/Pages/Physics/Physics_Home/index.html </link>
