@@ -1,2 +1,1 @@
-ArgumentError: Package Primes not found in current path.
-- Run `import Pkg; Pkg.add("Primes")` to install the Primes package.
+The period of 61253 is = 30626

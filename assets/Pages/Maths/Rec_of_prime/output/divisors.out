@@ -1,2 +1,1 @@
-ArgumentError: Package Primes not found in current path.
-- Run `import Pkg; Pkg.add("Primes")` to install the Primes package.
+The divisors of 22 is = [1, 2, 11, 22]
