@@ -53,8 +53,7 @@ The output is:
 ~~~
 This contains some interesting things related to Mathematics :\\
 (*This part will be updated as new blogs are added*)
-* [The Period of Reciprocals of Primes (work of William Shanks)](/Pages/Maths/Rec_of_prime/)
-  Yeah!!... First blog
+1. [The Period of Reciprocals of Primes (work of William Shanks)](/Pages/Maths/Rec_of_prime/) -->Yeah!!... First blog
 <!-- ## Live evaluation of code blocks
 
 If you would like to show code as well as what the code outputs, you only need to specify where the script corresponding to the code block will be saved.
