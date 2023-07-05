@@ -157,7 +157,7 @@ To see what happens in his frame, we apply a **Lorentz Transformation**. The tra
   </div>
 </div>
 ~~~
-Here, the **pink** basis vector is the **time basis** in feynman's frame and **blue** basis is the **space basis**. I have shifted the **time component of the even vector to feynman's location**.\\
+Here, the **pink** basis vector is the **time basis** in feynman's frame and **blue** basis is the **space basis**. I have shifted the **time component of the event vector to feynman's location**.\\
 Now, our job is to simply find the component of the time ($3s$ in einstein's frame) along the **pink** basis.
 
 Beacuse, the vector is not along the time axis, our intution is already telling us that **Einstein** will see that in **Feynman's** moving frame duration has increased. For detail show the image below.
@@ -169,7 +169,7 @@ Beacuse, the vector is not along the time axis, our intution is already telling 
   </div>
 </div>
 ~~~
-Here, the left one is the diahgram which **Einstein** will see in his own frame and right one is the diagram which **Einstein** will see for **Feynman's** frame.
+Here, the left one is the diagram which **Einstein** will see in his own frame and right one is the diagram which **Einstein** will see for **Feynman's** frame.
 
 This is how we can intuitively understand **Time Dilation** using coordinate transformation.
 
@@ -177,4 +177,14 @@ I tried my best to explain this, although I am not sure how much you guys have u
 ### A question for you the Reader
 Try explaining the Time Dilation using this method for the case of Mueon particle.
 
-If you have some question, do let me know. My contact informations are given in the end of [Home page](/).
+If you have some question, do let me know in the comments (you need github account) or contact me using my using the informations are given in the end of [Home page](/).
+
+~~~
+<script src="https://utteranc.es/client.js"
+        repo="aburousan/blog_comments"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+~~~
