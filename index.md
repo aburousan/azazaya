@@ -11,6 +11,12 @@
 *Image taken by my friend [Subham Chakraborty](https://www.instagram.com/subhamchakraborty__?utm_source=ig_web_button_share_sheet&igsh=ODdmZWVhMTFiMw==)*
 
 This fascination force me to always try to find patterns and beauty in the theories. Through this website, I want to show others how beautiful these are.
+
+~~~
+<img src="/assets/map.png" alt="" width="700">
+<div class="caption"></div>
+~~~
+Here is a **map of different field of physics** and I love to run around all the parts.
 > “Two things are infinite the universe and human stupidity and I am not sure about the universe.” - Albert Einstein
 
 
