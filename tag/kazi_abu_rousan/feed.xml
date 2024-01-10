@@ -23,48 +23,10 @@
 
 <item>
   <title>
-    <![CDATA[  Time Dilation as Coordinate Transformation  ]]>
-  </title>
-  <link> https://tlienart.github.io/FranklinTemplates.jl/Pages/Physics/TD_as_CT/index.html </link>
-  <guid> https://tlienart.github.io/FranklinTemplates.jl/Pages/Physics/TD_as_CT/index.html </guid>
-  <description>
-    <![CDATA[  A visual understanding on how we can visualize Time Dilation as a simple result of coordinate transformation.  ]]>
-  </description>  
-    
-  <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Kazi Abu Rousan</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
     <![CDATA[  More goodies  ]]>
   </title>
   <link> https://tlienart.github.io/FranklinTemplates.jl/Pages/about_me/index.html </link>
   <guid> https://tlienart.github.io/FranklinTemplates.jl/Pages/about_me/index.html </guid>
-  <description>
-    <![CDATA[  A short description of the page which would serve as <strong>blurb</strong> in a <code>RSS</code> feed; you can use basic markdown here but the whole description string must be a single line &#40;not a multiline string&#41;. Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don&#39;t expect maths or fancy styling to work; images should be ok though: <img src="https://upload.wikimedia.org/wikipedia/en/b/b0/Rick_and_Morty_characters.jpg" alt="" />  ]]>
-  </description>  
-    
-  <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Kazi Abu Rousan</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  More goodies  ]]>
-  </title>
-  <link> https://tlienart.github.io/FranklinTemplates.jl/Pages/Physics/Physics_Home/index.html </link>
-  <guid> https://tlienart.github.io/FranklinTemplates.jl/Pages/Physics/Physics_Home/index.html </guid>
   <description>
     <![CDATA[  A short description of the page which would serve as <strong>blurb</strong> in a <code>RSS</code> feed; you can use basic markdown here but the whole description string must be a single line &#40;not a multiline string&#41;. Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don&#39;t expect maths or fancy styling to work; images should be ok though: <img src="https://upload.wikimedia.org/wikipedia/en/b/b0/Rick_and_Morty_characters.jpg" alt="" />  ]]>
   </description>  
