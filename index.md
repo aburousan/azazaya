@@ -2,55 +2,39 @@
 @def tags = ["syntax", "code"]
 
 # Idea behind this website
-**Mathematics** and **Physics**... this two are really something I enjoy. Eachtime I read something of maths or physics, It really force me to think how beautiful and elegant things are. How can something born from our mind can describe this world!!...\\
+**Mathematics** and **Physics**... This two are really something I enjoy. Each time I read something of maths or physics, It really force me to think how beautiful and elegant things are. How can something born from our mind can describe this world!!...
+
+~~~
+<img src="/assets/subham_pic.jpeg" alt="" width="600">
+<div class="caption"></div>
+~~~
+*Image taken by my friend [Subham Chakraborty](https://www.instagram.com/subhamchakraborty__?utm_source=ig_web_button_share_sheet&igsh=ODdmZWVhMTFiMw==)*
+
 This fascination force me to always try to find patterns and beauty in the theories. Through this website, I want to show others how beautiful these are.
-Visit
-* [Physics Main Page](/Pages/Physics/Physics_Home/)
+> “Two things are infinite the universe and human stupidity and I am not sure about the universe.” - Albert Einstein
+
+
+
+A small poem on one of my favouite topics: \\
+------------------------------------------------------------------
+In the realm of particles, small and grand,\\
+Quantum Field Theory, a mathematical stand,\\
+Group theory dances with symmetries bright,\\
+Unraveling particles, in quarks their flight.
+
+Lie algebras and representations intertwine,\\
+Mapping the forces, a mathematical shrine,\\
+Gauge symmetries weave through QFT's tale,\\
+Unifying particles, in equations frail.
+
+Through fields and groups, a new world appears,\\
+Where mathematical beauty conquers all fears,\\
+In quantum realms, symmetries hold sway,\\
+QFT and group theory, their dance will stay.
+-----------------------------------------------------------------------------
+<!-- * [Physics Main Page](/Pages/Physics/Physics_Home/)
 * [Mathematics Main Page](/Pages/Maths//Maths_Home/)
-for more info.
-
-Hi!!... I am **Kazi Abu Rousan**, a student of [Indian Association for The Cultivation of Science](https://en.wikipedia.org/wiki/Indian_Association_for_the_Cultivation_of_Science), doing my master's degree in Physics. I also teaches Maths and Physics for olympiad in [Cheenta Ganit Kendra](https://www.cheenta.com/).
-~~~
-<img src="/assets/me.jpeg" alt="It's a me! Rousan" width="500">
-<div class="caption">It's a me!! Rousan.</div>
-~~~
-
-Ohh and here is my catto! Mr. **Gino**!
-~~~
-<img src="/assets/gino.png" alt="It's Gino" width="500">
-~~~
-# Some of my Works
-I have written few articles all over web. Some of them are,
-* [What is Fourier Series? and It's Beauty](https://medium.com/swlh/what-is-fourier-series-and-its-beauty-ce2410012329). You can also watch a [video](https://youtu.be/0y8UsIFcvPs) on this.
-![Joaquin Phoenix Joker using 6000 epicycles](https://miro.medium.com/v2/resize:fit:720/format:webp/1*YkraGeZW9la2P7sDetBpFQ.png)
-* [Trapezoidal Rule: A Method of Numerical Integration](https://www.cantorsparadise.com/trapezoidal-rule-a-method-of-numerical-integration-5772838657b3)
-![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*2jcjgSAw_qoimpVm_2JNrg.png)
-
-* [Introduction to Anyons and Generalized Distribution Function](https://www.researchgate.net/publication/352641643_Introduction_to_Anyons_and_generalized_distribution_function)
-![](https://www.researchgate.net/profile/Kazi-Abu-Rousan/publication/352641643/figure/fig3/AS:1040709511565313@1625135891075/The-reflection-operation-with-respect-to-one-axis-This-shows-ph-p-and-ph-p-are.ppm)
-* [Extension of Gauss circle problem: Lattices for a Triangular grid and discovery of a new formula of $\pi$](https://www.researchgate.net/publication/370161335_Extension_of_Gauss_circle_problem_Lattices_for_a_Triangular_grid)
-![](https://www.researchgate.net/profile/Kazi-Abu-Rousan/publication/370161335/figure/fig3/AS:11431281152663383@1682100177142/A-circle-of-Radius-7-has-18-lattice-points-on-it_Q320.jpg)
-
-* [Diffraction patterns by different orientation of rectangular Apertures: Intuitive understanding of Optical Transformations](https://www.researchgate.net/publication/356142815_Diffraction_patterns_by_different_orientation_of_rectangular_Apertures_Intuitive_understanding_of_Optical_Transformations)
-![](https://www.researchgate.net/profile/Kazi-Abu-Rousan/publication/356142815/figure/fig2/AS:1098551824265217@1638926573534/Diffraction-pattern-of-the-aperture-in-Fig-2.ppm)
-
-* I have recently been a mentor for a Summer School of Astrophysics. For more see [here](https://sites.google.com/view/intro-2-astro/2023-course).\\
-To access notes and assignment visit [here](https://github.com/howardisaacson/Intro-to-Astro2023/tree/main/Week2_packages_plotting) (The ones on matplotlib and numpy, Scipy and Astropy are made by me).
-* I am writing a book on [Number Theory](https://www.researchgate.net/project/Number-Theory-with-Python). You can check the draft.
-~~~
-<img src="/assets/book.jpg" alt="My Book" width="400">
-~~~
-
-For more visit my Social Accounts
-*
-~~~
-<a href="https://twitter.com/AustinRousan?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @AustinRousan</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-~~~
-
-* [LinkedIn](https://www.linkedin.com/in/kazi-abu-rousan-819848198/)
-* [Instragram](https://www.instagram.com/azavzya/)
-* [Facebook](https://www.facebook.com/K.A.Rousan/)
-
+for more info. -->
 <!-- We notice what happens in real world, we study things and then we try to find what are the rules this whole world follows.
 This is what ~~~
 <span style="color:purple;font-weight:700">
