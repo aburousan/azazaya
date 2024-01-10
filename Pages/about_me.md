@@ -47,6 +47,12 @@ Here I have tried to show how **Optical Lense** formulas are similar to that of 
 ![](https://www.researchgate.net/profile/Kazi-Abu-Rousan/publication/352641643/figure/fig3/AS:1040709511565313@1625135891075/The-reflection-operation-with-respect-to-one-axis-This-shows-ph-p-and-ph-p-are.ppm)
 This is my BSc. project, here I have tried to find a **generalized distribution function** which **anyons** follow. We can get **Bosonic** and **Fermionic** distribution function from that function as a special case.
 
+* I also loves to make animation using **manim**-- a python library build by Grant (3blue1brown) to make animation videos on different topics of maths and physics. Here is the [playlist](https://youtube.com/playlist?list=PLTDTcDkWcXuzwI6M1bGzNh6dDPCB9qZiu&si=I8vaX6GaIaK5jVei).
+~~~
+<iframe width="300" height="150" src="https://www.youtube.com/embed/videoseries?si=PXwPtqGFReU-ZJct&amp;list=PLTDTcDkWcXuzwI6M1bGzNh6dDPCB9qZiu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+~~~
+
+
 Some of my blogs on medium are,
 * [What is Fourier Series? and It's Beauty](https://medium.com/swlh/what-is-fourier-series-and-its-beauty-ce2410012329). You can also watch a [video](https://youtu.be/0y8UsIFcvPs) on this.
 ![Joaquin Phoenix Joker using 6000 epicycles](https://miro.medium.com/v2/resize:fit:720/format:webp/1*YkraGeZW9la2P7sDetBpFQ.png)
@@ -54,12 +60,11 @@ Some of my blogs on medium are,
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*2jcjgSAw_qoimpVm_2JNrg.png)
 
 
-
 # Some extra Mentorship
 
 * I have been a mentor for a Summer School of Astrophysics in 2023. For more visit their website [here](https://sites.google.com/view/intro-2-astro/2023-course). To access notes and assignment visit [here](https://github.com/howardisaacson/Intro-to-Astro2023/tree/main/Week2_packages_plotting) (The ones on matplotlib and numpy, Scipy and Astropy are made by me).
 ~~~
-<iframe width="500" height="250" src="https://www.youtube.com/embed/0wXsGut5kYY" title="Intro2Astro: Numpy, Scipy &amp; Astropy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="300" height="150" src="https://www.youtube.com/embed/0wXsGut5kYY" title="Intro2Astro: Numpy, Scipy &amp; Astropy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
 * I am teaching the python part of a course **Approaching Computational Thinking with R + Python** organised by [Cosmic Charade](https://cosmic-charade.netlify.app/).
 * I am writing a book on [Number Theory](https://www.researchgate.net/project/Number-Theory-with-Python). You can check the draft.
