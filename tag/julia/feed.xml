@@ -42,6 +42,25 @@
 
 <item>
   <title>
+    <![CDATA[  Introduction to Monte Carlo Integration  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/Pages/Maths/Monte_Carlo_Inte/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/Pages/Maths/Monte_Carlo_Inte/index.html </guid>
+  <description>
+    <![CDATA[  A brief discussion on Introduction to Monte Carlo Integration. Here we will see how to perform this in julia language and also it&#39;s theory.  ]]>
+  </description>  
+    
+  <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Kazi Abu Rousan</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Reciprocals of Primes  ]]>
   </title>
   <link> https://tlienart.github.io/FranklinTemplates.jl/Pages/Maths/Rec_of_prime/index.html </link>
