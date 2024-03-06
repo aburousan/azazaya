@@ -1,5 +1,6 @@
 [deps]
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 DynamicalSystems = "61744808-ddfa-5f27-97ff-6e42cc95d634"
 FITSIO = "525bcba6-941b-5504-bd06-fd0dc1a4d2eb"
 Franklin = "713c75ef-9fc9-4b05-94a9-213340da978e"
