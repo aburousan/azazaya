@@ -46,6 +46,8 @@ Here I have tried to show how **Optical Lense** formulas are similar to that of 
 * [Introduction to Anyons and Generalized Distribution Function](https://www.researchgate.net/publication/352641643_Introduction_to_Anyons_and_generalized_distribution_function)
 ![](https://www.researchgate.net/profile/Kazi-Abu-Rousan/publication/352641643/figure/fig3/AS:1040709511565313@1625135891075/The-reflection-operation-with-respect-to-one-axis-This-shows-ph-p-and-ph-p-are.ppm)
 This is my BSc. project, here I have tried to find a **generalized distribution function** which **anyons** follow. We can get **Bosonic** and **Fermionic** distribution function from that function as a special case.
+* [Cosmic.jl: A simple package for study of Cosmology](https://github.com/aburousan/cosmic.jl)
+This is a **julia** package I am developing in my free time for calculating some basic things of Cosmology. The goal of this package is to compute Cosmological Perturbations. Although for now, it can only do very basic things and is far from it's real goal.
 
 * I also loves to make animation using **manim**-- a python library build by Grant (3blue1brown) to make animation videos on different topics of maths and physics. Here is the [playlist](https://youtube.com/playlist?list=PLTDTcDkWcXuzwI6M1bGzNh6dDPCB9qZiu&si=I8vaX6GaIaK5jVei).
 ~~~

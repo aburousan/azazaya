@@ -50,7 +50,7 @@ In many streams of physics, like **Analytical Mechanics** or **Special Theory of
 
 **\col{red}{Momentum is a property of any object which tells us it's ability to push or apply force to some other object.}**
 
-This means even if some obejct don't have any mass if it can push something we can conclude that it has some momentum (just remember $\vec{F} = \frac{d \vec{p}}{dt}$). Maybe we will explore this point in much more detail in some future blog.
+This means *even if some object don't have any mass, but if it can push something we can conclude that it has some momentum* (just remember $\vec{F} = \frac{d \vec{p}}{dt}$). Maybe we will explore this point in much more detail in some future blog.
 
 
 ## Evidence of Light's Momentum
@@ -202,9 +202,14 @@ Isn't it beautiful?, how we now understand the real physics behind the whole pro
 
 We know understand **it is the magnetic field** who is giving the momentum, well **electric field** is also somewhat responsible for this as it gives the initial push giving some velocity to the electrons.
 
+There are few points we should note:
+1. Although the magnetic field is applying the push, the energy stored due in the process is due to electric field. This is the case as magnetic field don't do any work.
+2. The momentum is in the direction to light propagaration. If you consider a proton in place of electron even then it is the case.
+---------------------------------------------------
+
 I tried my best to explain this, although I am not sure how much you guys have understood but I hope, atleast you have found of insight on this topic.
 
-If you have some question, do let me know in the comments (you need github account) or contact me using my using the informations are given in the page [About Me](/Pages/about_me/).
+If you have some queries, do let me know in the comments (you need github account) or contact me using my using the informations that are given on the page [About Me](/Pages/about_me/).
 
 ~~~
 <script src="https://utteranc.es/client.js"
