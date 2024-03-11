@@ -23,15 +23,15 @@
 
 <item>
   <title>
-    <![CDATA[  Time Dilation as Coordinate Transformation  ]]>
+    <![CDATA[  Introduction to Monte Carlo Integration  ]]>
   </title>
-  <link> https://tlienart.github.io/FranklinTemplates.jl/Pages/Physics/TD_as_CT/index.html </link>
-  <guid> https://tlienart.github.io/FranklinTemplates.jl/Pages/Physics/TD_as_CT/index.html </guid>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/Pages/Maths/Monte_Carlo_Inte/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/Pages/Maths/Monte_Carlo_Inte/index.html </guid>
   <description>
-    <![CDATA[  A visual understanding on how we can visualize Time Dilation as a simple result of coordinate transformation.  ]]>
+    <![CDATA[  A brief discussion on Introduction to Monte Carlo Integration. Here we will see how to perform this in julia language and also it&#39;s theory.  ]]>
   </description>  
     
-  <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>  
+  <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -42,15 +42,15 @@
 
 <item>
   <title>
-    <![CDATA[  Introduction to Monte Carlo Integration  ]]>
+    <![CDATA[  Time Dilation as Coordinate Transformation  ]]>
   </title>
-  <link> https://tlienart.github.io/FranklinTemplates.jl/Pages/Maths/Monte_Carlo_Inte/index.html </link>
-  <guid> https://tlienart.github.io/FranklinTemplates.jl/Pages/Maths/Monte_Carlo_Inte/index.html </guid>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/Pages/Physics/TD_as_CT/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/Pages/Physics/TD_as_CT/index.html </guid>
   <description>
-    <![CDATA[  A brief discussion on Introduction to Monte Carlo Integration. Here we will see how to perform this in julia language and also it&#39;s theory.  ]]>
+    <![CDATA[  A visual understanding on how we can visualize Time Dilation as a simple result of coordinate transformation.  ]]>
   </description>  
     
-  <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>  
+  <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>  
   
   
   <atom:author>

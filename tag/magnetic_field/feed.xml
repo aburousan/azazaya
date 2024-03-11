@@ -23,15 +23,15 @@
 
 <item>
   <title>
-    <![CDATA[  Introduction to Monte Carlo Integration  ]]>
+    <![CDATA[  What exactly is Light Momentum?  ]]>
   </title>
-  <link> https://tlienart.github.io/FranklinTemplates.jl/Pages/Maths/Monte_Carlo_Inte/index.html </link>
-  <guid> https://tlienart.github.io/FranklinTemplates.jl/Pages/Maths/Monte_Carlo_Inte/index.html </guid>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/Pages/Physics/Light_Momentum/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/Pages/Physics/Light_Momentum/index.html </guid>
   <description>
-    <![CDATA[  A brief discussion on Introduction to Monte Carlo Integration. Here we will see how to perform this in julia language and also it&#39;s theory.  ]]>
+    <![CDATA[  IN this blog, we will understand What exactly is Light Momentum? and from where exactly it is coming?  ]]>
   </description>  
     
-  <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>  
+  <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>

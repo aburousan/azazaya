@@ -23,15 +23,15 @@
 
 <item>
   <title>
-    <![CDATA[  Time Dilation as Coordinate Transformation  ]]>
+    <![CDATA[  What exactly is Light Momentum?  ]]>
   </title>
-  <link> https://tlienart.github.io/FranklinTemplates.jl/Pages/Physics/TD_as_CT/index.html </link>
-  <guid> https://tlienart.github.io/FranklinTemplates.jl/Pages/Physics/TD_as_CT/index.html </guid>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/Pages/Physics/Light_Momentum/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/Pages/Physics/Light_Momentum/index.html </guid>
   <description>
-    <![CDATA[  A visual understanding on how we can visualize Time Dilation as a simple result of coordinate transformation.  ]]>
+    <![CDATA[  IN this blog, we will understand What exactly is Light Momentum? and from where exactly it is coming?  ]]>
   </description>  
     
-  <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>  
+  <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -50,7 +50,26 @@
     <![CDATA[  A brief discussion on Introduction to Monte Carlo Integration. Here we will see how to perform this in julia language and also it&#39;s theory.  ]]>
   </description>  
     
-  <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>  
+  <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Kazi Abu Rousan</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Time Dilation as Coordinate Transformation  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/Pages/Physics/TD_as_CT/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/Pages/Physics/TD_as_CT/index.html </guid>
+  <description>
+    <![CDATA[  A visual understanding on how we can visualize Time Dilation as a simple result of coordinate transformation.  ]]>
+  </description>  
+    
+  <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
