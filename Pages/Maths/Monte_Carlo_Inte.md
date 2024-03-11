@@ -353,7 +353,17 @@ println("Multithreading-- No. of Thread = ",Threads.nthreads())
 @time Inte_monte1D_thread(h,N,-1,1)
 ```
 The output is:
-\output{./monte_1D_thread.jl}
+~~~
+<div class="row">
+  <div class="container">
+    <img class="center" src="/assets/Maths/monte_multi_thread.png"  height="180">
+    <p>
+    
+    </p>
+    <div style="clear: both"></div>      
+  </div>
+</div>
+~~~
 Just look!... the speed....
 
 As we go to higher dimensions, the **Monte Carlo** method truly shines. It is free from the *curse of dimensionality*.
