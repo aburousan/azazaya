@@ -199,7 +199,7 @@ This is create a plot like,
 ~~~
 I hope you all like this interesting piece of knowlege. Just think how much blessed we are. We should use all our resources(blessings) to do awesome things.
 
-If you have some question, do let me know in the comments (you need github account) or contact me using my using the informations are given in the end of [Home page](/).
+If you have some question, do let me know in the comments (you need github account) or contact me using my using the informations are given in the page [About Me](/Pages/about_me/).
 
 ~~~
 <script src="https://utteranc.es/client.js"
