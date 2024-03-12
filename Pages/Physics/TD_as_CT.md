@@ -6,6 +6,8 @@ rss = "A visual understanding on how we can visualize Time Dilation as a simple 
 
 tags = ["Julia", "Linear Transformation", "physics", "Space Time Diagrams", "Special Theory of Relativity", "Time Dilation"]
 +++
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Faburousan.github.io%2Fazazaya%2FPages%2FPhysics%2FTD_as_CT%2F&count_bg=%23B461C2&title_bg=%2357521A&icon=atom.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 \toc
 # Time Dilation as a result of Coordinate Transformation
 **Special Relativity** was originally proposed by **Albert Einstein** in a paper published on 26 September 1905 titled "[On the Electrodynamics of Moving Bodies](https://www.fourmilab.ch/etexts/einstein/specrel/www/)".\\

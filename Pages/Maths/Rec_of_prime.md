@@ -6,7 +6,7 @@ rss = "A brief discussion on the fact that taking the reciprocals of primes will
 
 tags = ["Julia", "code", "mathematics", "Shanks", "Prime Numbers"]
 +++
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Faburousan.github.io%2Fazazaya%2FPages%2FMaths%2FRec_of_prime%2F&count_bg=%23B461C2&title_bg=%2357521A&icon=atom.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 \toc
 # The Period of Reciprocals of Primes (work of William Shanks)
 You are reading this blog?, This is (even if it's little) you love maths.\\
