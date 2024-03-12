@@ -1,5 +1,5 @@
 Single thread
-  0.592861 seconds (55.98 k allocations: 1.494 GiB, 1.68% gc time, 5.28% compilation time)
+  0.709666 seconds (55.98 k allocations: 1.494 GiB, 16.59% gc time, 4.55% compilation time)
 ----------------------------
 Multithreading-- No. of Thread = 1
-  0.779896 seconds (54.29 k allocations: 1.494 GiB, 16.38% gc time, 12.62% compilation time)
+  0.675878 seconds (54.13 k allocations: 1.494 GiB, 2.07% gc time, 14.88% compilation time)
