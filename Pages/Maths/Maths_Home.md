@@ -55,6 +55,7 @@ This contains some interesting things related to Mathematics :\\
 (*This part will be updated as new blogs are added*)
 1. [The Period of Reciprocals of Primes (work of William Shanks)](/Pages/Maths/Rec_of_prime/) -->Yeah!!... First blog
 2. [Introduction to Monte Carlo Integration](/Pages/Maths/Monte_Carlo_Inte/) --> Hell Yeah!... Second Blog
+3. [Test](/Pages/Maths/theorem_test/) --> Hell Yeah!... Second Blog
 <!-- ## Live evaluation of code blocks
 
 If you would like to show code as well as what the code outputs, you only need to specify where the script corresponding to the code block will be saved.

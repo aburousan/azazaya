@@ -37,6 +37,11 @@ E^2 = (mc^2)^2 + (pc)^2
 \label{Mass-Ener_f}
 $$
 Now, as **light doesn't have any mass**, we put $m=0$, which gives us our expression for the momentum $p$.
+
+After posting this many people are saying using the $4-vector$ method , i.e., $p^{\mu}p_{\mu}$ we can easily find momentum of photon. I guess they have not read the blog. As that method is equivalent to what i just discussed here in this box because 
+$$
+p^{\mu}p_{\mu} = m^2c^2 = \Big(\frac{E}{c}\Big)^2 - \vec{p}\cdot \vec{p}
+$$
 @@
 The problem with this proof is that fact **\col{green}{It doesn't teach us what is physically happening}** nor it tells us how the hell **\col{green}{something which doesn't have any mass can have momentum?}**
 
@@ -59,19 +64,33 @@ This means *even if some object don't have any mass, but if it can push somethin
 Keeping the point of the previous section in our mind, let's see few evidences for light momentum.\\
 Normally when we are sitting in your room while the light is on or maybe sitting outside, you don't feel any push. Then can we say **light don't have any mometum?**, well no!
 
+
+@@colbox-red
+
+**Misinformation Alert!!**\\
+
+After posting this, Many people specially [Dr. Chentan Waghela](linkedin.com/in/dr-chetan-waghela-6682384a), [Terry Bollinger](https://www.linkedin.com/in/terry-bollinger-8a976) pointed out this is clearly a misinformation as the plastic can just fall due to the thermal effect of air and heating, which is 100% correct. 
+
+I had added that as it looks visually great. I shouldn't have done that.... Sorry about that. I decided not to remove this part so people can see and understand the mistake.
+
+
 Maybe it is very small. We have to perform some experiment which can even detect very small momentum. You can actually perform one such experiment in your home with a very strong flash light or a laser(see the video below).
-~~~
-<div class="row">
-  <div class="container">
-    <img class="center" src="/assets/Physics/Light_Momentum/pressure_of_light.gif"  width="50">
-    <p>
-    Force by Light on a small Plastic.
-    </p>
-    <div style="clear: both"></div>      
-  </div>
-</div>
-~~~
+@@im-50
+![Wrong Video](/assets/Physics/Light_Momentum/pressure_of_light.gif)
+@@
+
 As shown in the video if we took a very light plastic and hit it with a laser, the plasic falls due to the **pressure**, i.e., **force of the light**, which implies *light can push* and hence it has *momentum*.
+
+
+@@
+
+
+An actual visuals to see the pressure of light can be seen in the video below.
+
+~~~
+<iframe width="460" height="280" src="https://www.youtube.com/embed/Sq7GaO8iqu8?si=4GbyLG1kWGv-WRPv&amp;start=87" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+~~~
+Compton effect is actually a very nice proof of *light having momentum* but we will not discuss that here.
 
 Another nice observation is the tail of **Hale Bopp** comet. Normally, when a comes goes around it's orbit we expect that it's tail should be tangent to the orbit. But observation showed us it is not the case (see the figure below).
 ~~~
