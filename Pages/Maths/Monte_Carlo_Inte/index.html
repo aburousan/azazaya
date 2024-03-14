@@ -41,7 +41,7 @@ g(x) = sqrt(<span class=hljs-number >1</span> - x^<span class=hljs-number >2</sp
 N = <span class=hljs-number >1000</span>; a = -<span class=hljs-number >1</span>; b = <span class=hljs-number >1</span>;
 vv = Inte_monte1D(g,N,a,b)
 println(<span class=hljs-string >&quot;The area of semi-circle for N = <span class=hljs-variable >$N</span> , a = <span class=hljs-variable >$a</span> and b = <span class=hljs-variable >$b</span> is &quot;</span>,vv)</code></pre>
-<p>The output is: <pre><code class="plaintext hljs">The area of semi-circle for N = 1000 , a = -1 and b = 1 is 1.586970506355011
+<p>The output is: <pre><code class="plaintext hljs">The area of semi-circle for N = 1000 , a = -1 and b = 1 is 1.5748952609170206
 </code></pre></p>
 <p>Now, let&#39;s calculate the integration for different <span class=katex ><span class=katex-mathml ><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>N</mi></mrow><annotation encoding="application/x-tex">N</annotation></semantics></math></span><span class=katex-html  aria-hidden=true ><span class=base ><span class=strut  style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span></span></span></span> values and calculate the error in each case.</p>
 <pre><code class="julia hljs"><span class=hljs-keyword >using</span> Distributions, DataFrames
@@ -70,14 +70,14 @@ print(df)</code></pre>
  Row │ N          Integration_Result  Error
      │ Int64      Float64             Float64
 ─────┼────────────────────────────────────────────
-   1 │        10             1.44053  0.130265
-   2 │       100             1.58796  0.0171608
-   3 │      1000             1.57634  0.00554303
-   4 │     10000             1.5656   0.00519571
-   5 │    100000             1.57078  1.77087e-5
-   6 │   1000000             1.5701   0.000699195
-   7 │  10000000             1.57066  0.000135919
-   8 │ 100000000             1.57088  8.16082e-5</code></pre> So, as we can see clearly that the error drops as the <span class=katex ><span class=katex-mathml ><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>N</mi></mrow><annotation encoding="application/x-tex">N</annotation></semantics></math></span><span class=katex-html  aria-hidden=true ><span class=base ><span class=strut  style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span></span></span></span> value increases. But compared to other numerical methods, this one seems a bit inefficient. Well, this weakness just is there in case of single or some times double varible functions , i.e., 2D functions.</p>
+   1 │        10             1.54977  0.0210281
+   2 │       100             1.56498  0.00581996
+   3 │      1000             1.5504   0.0203958
+   4 │     10000             1.57264  0.00184747
+   5 │    100000             1.57079  5.67013e-6
+   6 │   1000000             1.57017  0.00062824
+   7 │  10000000             1.57069  0.000109966
+   8 │ 100000000             1.57071  9.10916e-5</code></pre> So, as we can see clearly that the error drops as the <span class=katex ><span class=katex-mathml ><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>N</mi></mrow><annotation encoding="application/x-tex">N</annotation></semantics></math></span><span class=katex-html  aria-hidden=true ><span class=base ><span class=strut  style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span></span></span></span> value increases. But compared to other numerical methods, this one seems a bit inefficient. Well, this weakness just is there in case of single or some times double varible functions , i.e., 2D functions.</p>
 <p>We can make the code much faster &#40;although it is already very fast&#41; using parallel computing and many more modern blackmagic of different algorithms &amp; technology. But we will not discuss those here but a little example doesn&#39;t hurt.</p>
 <pre><code class="julia hljs"><span class=hljs-keyword >using</span> Distributions
 
@@ -127,7 +127,7 @@ println(<span class=hljs-string >&quot;Multithreading-- No. of Thread = &quot;</
 </script>
 
 <div class=page-foot >
-    <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> Kazi Abu Rousan. Last modified: March 12, 2024.
+    <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> Kazi Abu Rousan. Last modified: March 14, 2024.
     Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a> and the <a href="https://julialang.org">Julia programming language</a>.
 </div>
 </div>
