@@ -45,6 +45,12 @@ $$
 @@
 The problem with this proof is that fact **\col{green}{It doesn't teach us what is physically happening}** nor it tells us how the hell **\col{green}{something which doesn't have any mass can have momentum?}**
 
+@@im-50
+![](/assets/Physics/Light_Momentum/em_field_light.jpg)
+@@
+**Spolier: Magnetic-Field Component is responsible for Light Momentum**
+
+
 Before exactly learning where is momentum is coming, let's first see if this momentum even exist. In science, we always need **experimental evidence** to be sure if something really is there.
 > No matter how beautiful or elegant your theory is if there is no evidence then it's wrong.
 
@@ -90,6 +96,7 @@ An actual visuals to see the pressure of light can be seen in the video below.
 ~~~
 <iframe width="460" height="280" src="https://www.youtube.com/embed/Sq7GaO8iqu8?si=4GbyLG1kWGv-WRPv&amp;start=87" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
+
 Compton effect is actually a very nice proof of *light having momentum* but we will not discuss that here.
 
 Another nice observation is the tail of **Hale Bopp** comet. Normally, when a comes goes around it's orbit we expect that it's tail should be tangent to the orbit. But observation showed us it is not the case (see the figure below).
